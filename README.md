@@ -11,4 +11,8 @@
 <div class="image-container">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-</div>
+</div>  
+
+![Snake animation](https://github.com/imthedaniel/imthedaniel/blob/output/github-contribution-grid-snake.svg)     
+
+
